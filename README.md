@@ -1,1 +1,1 @@
-# wifi-generator
+# wifi password generator
